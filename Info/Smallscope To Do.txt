@@ -1,0 +1,9 @@
+SmallScope
+
+-Surface Component
+-Phosphor Decay Rate Link
+-Improve Phosphor Visuals
+
+
+-Set Up Github
+

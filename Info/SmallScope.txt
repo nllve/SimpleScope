@@ -1,0 +1,38 @@
+SmallScope
+
+
+
+-UI Interface
+	-Background
+		-PANEL COMPONENT
+	-Knobs
+		-CUSTOM KNOB COMPONENT
+	-Buttons
+		-CUSTOM BUTTON COMPONENT
+	
+	-WaveformDisplay COMPONENT
+		-Phosphorescent Screen COMPONENT
+		-WaveScope COMPONENT
+
+-UI Parameters
+	-Channel View (L, R, LR)
+	
+	-Trace Colour (CHECK)
+	-Phosphor Decay Amount (CHECK)
+	-StoreMemoryState (CHECK)
+	-Vertical Zoom (1.0 - 1.5) (CHECK)
+	-NumSamples Per Pixel(2, 4, 8, 16, 32) (CHECK)
+	-Trigger Mode (None, Up, Down) (CHECK)
+
+
+EXTRAS:
+	-RAII Model
+	-Scope Locking
+	-Multi-Threading
+	-Optimized Algorithm
+
+	-Tempo Synced Waveform Display
+	-Multichannel Display
+	-Spectrogram
+
+
